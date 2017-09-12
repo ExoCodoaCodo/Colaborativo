@@ -16,10 +16,10 @@ public class Acceso2 {
     
     Acceso1 obj2 = new Acceso1();
     
-    obj2.edad=25;
+    //obj2.edad=25;
     
-        System.out.println(obj2.edad);
-        System.out.println(obj2.altura);
+      //  System.out.println(obj2.edad);
+        //System.out.println(obj2.altura);
              
     
     }
