@@ -2,7 +2,7 @@
 package Aplicacion3;
 
 /**
- *
+ *prueba de juego
  * @author Español
  */
 public class Aplicacion2 extends javax.swing.JFrame {
