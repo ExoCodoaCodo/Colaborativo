@@ -5,7 +5,7 @@ package Clases;
 
 /**
  *
- * @alejandro zapata codo a codo
+ * @alejandro zapata codo a codo prueba
  */
 public class PersonaAlejandro {
     
