@@ -13,10 +13,17 @@ public class Principal {
     
     public static void main(String [] arg){
     
+<<<<<<< HEAD
         System.out.println("hola mundo");
         
         System.out.println("Hola mundo Mariana");
     
+=======
+        
+        System.out.println("hola mundo de alejandro 3");
+        
+        
+>>>>>>> 8d9ca925eca7c98838df793f98b8e7923713222d
     
     }
     
