@@ -24,6 +24,8 @@ public class Principal {
         
         
 >>>>>>> 8d9ca925eca7c98838df793f98b8e7923713222d
+        
+       System.out.println("Hola mundo Gabriela");
     
     }
     
